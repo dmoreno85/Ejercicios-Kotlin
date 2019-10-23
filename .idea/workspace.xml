@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a088cc1-318f-47f2-97a2-a519b9a5325d" name="Default Changelist" comment="" />
+    <list default="true" id="6a088cc1-318f-47f2-97a2-a519b9a5325d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,10 +21,14 @@
     </option>
   </component>
   <component name="ProjectId" id="1SYp1Q5YHLN73xjNMBUWh32YsLs" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -48,6 +54,10 @@
       <updated>1571750167502</updated>
       <workItem from="1571750173014" duration="36000" />
       <workItem from="1571750232639" duration="57000" />
+      <workItem from="1571823469986" duration="267000" />
+      <workItem from="1571823762126" duration="9000" />
+      <workItem from="1571828156297" duration="476000" />
+      <workItem from="1571828653067" duration="624000" />
     </task>
     <servers />
   </component>
