@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a088cc1-318f-47f2-97a2-a519b9a5325d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_Kotlin_1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios_Kotlin_1/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_Kotlin_3/src/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios_Kotlin_3/src/main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_Kotlin_4/src/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios_Kotlin_4/src/main.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +34,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Ejercicios_Kotlin_6" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -72,6 +68,8 @@
       <workItem from="1571830807163" duration="1080000" />
       <workItem from="1571831921210" duration="93000" />
       <workItem from="1571843013002" duration="50000" />
+      <workItem from="1571843135385" duration="181000" />
+      <workItem from="1571843337015" duration="47000" />
     </task>
     <servers />
   </component>
