@@ -2,13 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a088cc1-318f-47f2-97a2-a519b9a5325d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicios_Kotlin_1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios_Kotlin_1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicios_Kotlin_3/src/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios_Kotlin_3/src/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicios_Kotlin_4/src/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios_Kotlin_4/src/main.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,7 +38,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Ejercicios_Kotlin_6" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -57,7 +68,10 @@
       <workItem from="1571823469986" duration="267000" />
       <workItem from="1571823762126" duration="9000" />
       <workItem from="1571828156297" duration="476000" />
-      <workItem from="1571828653067" duration="624000" />
+      <workItem from="1571828653067" duration="2014000" />
+      <workItem from="1571830807163" duration="1080000" />
+      <workItem from="1571831921210" duration="93000" />
+      <workItem from="1571843013002" duration="50000" />
     </task>
     <servers />
   </component>
@@ -76,5 +90,25 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/Ejercicios_Kotlin_4/src/main.kt</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/Ejercicios_Kotlin_1/src/main.kt</url>
+          <line>9</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/Ejercicios_Kotlin_1/src/main.kt</url>
+          <line>1</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

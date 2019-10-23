@@ -9,13 +9,9 @@ fun main(){
     for (i in 1..num) {
 
         val n = readLine()!!.toInt()
-        num2+=n;
+        num2+= n;
     }
 
     println("La media de lo numeros introducidos es :" +num2/num);
 }
 
-fun media(a: Int, b: Int){
- return
-
-}
