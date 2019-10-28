@@ -1,19 +1,34 @@
 fun main() {
-    var num1 = 0
-    var num2 = 0
+    var List1 : ArrayList<Int> = ArrayList()
+    var List2 : ArrayList<Int> = ArrayList()
+
+
+
     for (i in 1..5) {
         println("Introduzca valores para lista 1: ")
-        var lista1 = readLine()!!.toInt()
-        num1 += lista1;
+        List1.add(readLine()!!.toInt())
+
     }
     for (i in 1..5) {
         println("Introduzca valores para lista 2: ")
-        var lista2 = readLine()!!.toInt()
-        num2 += lista2
+       List2.add(readLine()!!.toInt())
+
     }
+
+    var num1 = sumaValores(List1);
+    var num2 = sumaValores(List2);
+
+
     when {
         num1 > num2 -> println("Lista 1 mayor")
         num1 < num2 -> println("Lista 2 mayor")
         else -> println("Listas iguales")
     }
+}
+
+fun sumaValores(lista : ArrayList<Int>) : Int{
+    var total =  0;
+    lista.forEach{
+        total += it }
+    return total;
 }
